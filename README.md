@@ -1,1 +1,2 @@
 This a completely new repository made for the purpose of makign sure I know how to use all the functions
+I want this README.md to be completely filled with things the public should be able to read and comperehend
