@@ -15,3 +15,6 @@ class Ship:
     @staticmethod
     def this_is_a_new_method():
         pass
+
+    def one_more_method():
+        pass
