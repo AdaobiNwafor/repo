@@ -17,3 +17,10 @@ class Ship:
 
     def one_more_method():
         pass
+
+    def this_will_not_be_staged():
+        pass
+
+    def both_will_be_staged():
+        pass
+    
