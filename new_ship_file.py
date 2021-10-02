@@ -11,3 +11,6 @@ class Ship:
     @classmethod
     def i_dont_know():
         pass
+
+    def this_is_a_new_method():
+        pass
