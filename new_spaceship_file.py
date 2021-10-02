@@ -7,3 +7,6 @@ class Spaceship(Ship):
     def new_ship():
         pass
     
+    def third_method_added():
+        pass
+    
