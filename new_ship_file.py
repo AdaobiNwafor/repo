@@ -11,4 +11,3 @@ class Ship:
     @classmethod
     def i_dont_know():
         pass
-    
