@@ -8,7 +8,6 @@ class Ship:
     def is_variable_valid():
         pass
     
-    
     @classmethod
     def i_dont_know():
         pass
