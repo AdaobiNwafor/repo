@@ -4,3 +4,6 @@ class Spaceship(Ship):
     def __init__(self):
         pass
     
+    def new_ship():
+        pass
+    
